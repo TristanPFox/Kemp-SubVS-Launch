@@ -1,6 +1,6 @@
 # Kemp-SubVS-Launch
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![uv](https://img.shields.io/badge/uv-purple?style=for-the-badge&logo=uv&logoColor=%23DE5FE9)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![uv](https://img.shields.io/badge/uv-purple?style=for-the-badge&logo=uv&logoColor=%23DE5FE9) ![Kemp VLM](https://img.shields.io/badge/Kemp%20VLM-%23fedd00.svg?style=for-the-badge&logo=progress&logoColor=%235ce500) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 Kemp-SubVS-Launch is an automated deployment tool for Kemp Virtual LoadMaster that streamlines the process of adding new applications to your load balancer. With a simple command-line interface, it creates the domain rule, sets up a Sub-Virtual Service (SubVS), configures the real server, and optionally creates a DNS A record in Cloudflare.
 
